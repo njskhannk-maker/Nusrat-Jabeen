@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Nusrat Jabeen</h1>
+![logo](https://github.com/njskhannk-maker/Nusrat-Jabeen/blob/main/github-header-banner.png)
+<!-- <h1 align="center">Hi 👋, I'm Nusrat Jabeen</h1> -->
 <h3 align="center">💻 Frontend Developer | 🌱 Learning JavaScript</h3>
 
 ---
@@ -7,7 +8,6 @@
 
 - 💡 I am a passionate **Frontend Developer**
 - 🌱 Currently learning **JavaScript**
-- 🎯 Goal: Become a Professional Web Developer
 - 💬 Ask me about **HTML, CSS, Basic JS**
 - ⚡ Fun fact: I love designing beautiful websites ✨
 
@@ -41,7 +41,7 @@
 ## 🎥 Animated Touch
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400"/>
+  <img src="https://github.com/njskhannk-maker/Nusrat-Jabeen/blob/main/9rfpor.gif" width="400"/>
 </p>
 
 ---
